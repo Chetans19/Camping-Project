@@ -1,0 +1,22 @@
+{
+  "name": "camping-project",
+  "version": "1.0.0",
+  "description": "Landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chetans19/Camping-Project.git"
+  },
+  "author": "Chetan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chetans19/Camping-Project/issues"
+  },
+  "homepage": "https://github.com/Chetans19/Camping-Project#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}

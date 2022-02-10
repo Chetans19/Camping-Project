@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Chetans19/Camping-Project#readme",
   "devDependencies": {
-    "node-sass": "^4.14.1"
+    "node-sass": "^7.0.0"
   }
 }
